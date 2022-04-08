@@ -1,0 +1,16 @@
+new
+  insert 10
+  insert 2
+  insert 3
+  insert 4
+  insert 5
+  insert 9
+  insert 8
+  insert 7
+  insert 6
+  printDFS
+  print
+  erase 3
+  printDFS
+  print
+end

@@ -1,0 +1,8 @@
+﻿  AVLTREE.cpp
+C:\Users\Aria\Desktop\AVLTREE\AVLTREE\avl_tester.h(137,19): warning C4101: 'ex': unreferenced local variable
+C:\Users\Aria\Desktop\AVLTREE\AVLTREE\avl_tester.h(140,19): warning C4101: 'ex': unreferenced local variable
+C:\Users\Aria\Desktop\AVLTREE\AVLTREE\avl_tester.h(151,19): warning C4101: 'ex': unreferenced local variable
+C:\Users\Aria\Desktop\AVLTREE\AVLTREE\avl_tester.h(154,19): warning C4101: 'ex': unreferenced local variable
+C:\Users\Aria\Desktop\AVLTREE\AVLTREE\search_tree.h(356): warning C4715: 'SearchTree::Node::check': not all control paths return a value
+C:\Users\Aria\Desktop\AVLTREE\AVLTREE\search_tree.h(391): warning C4715: 'SearchTree::Node::check2': not all control paths return a value
+  AVLTREE.vcxproj -> C:\Users\Aria\Desktop\AVLTREE\Debug\AVLTREE.exe
